@@ -3,9 +3,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/vannhatsss/) 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzV2bmZhZWZwM2ZhYWtybGh6dmk5aXQxeGszeTJzMnV0NGQwNmQ1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" style="width: 50%" />
-</div>
-
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzV2bmZhZWZwM2ZhYWtybGh6dmk5aXQxeGszeTJzMnV0NGQwNmQ1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="512px"/>
 
 
 # 💻Tech Stack
