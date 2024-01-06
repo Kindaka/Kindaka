@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://steamuserimages-a.akamaihd.net/ugc/1295298177647333936/C5973A54FDF5A3A0F0B63B5B8FA247B8C66E2630/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
+  <img height="300" width="600" src="https://steamuserimages-a.akamaihd.net/ugc/1295298177647333936/C5973A54FDF5A3A0F0B63B5B8FA247B8C66E2630/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
 </div>
 
 ###
