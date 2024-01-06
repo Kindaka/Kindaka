@@ -3,8 +3,8 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/vannhatsss/) 
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzV2bmZhZWZwM2ZhYWtybGh6dmk5aXQxeGszeTJzMnV0NGQwNmQ1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" style="width: 50%; height: 50%;" />
-  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--SK2mPJLd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2p24444g94djp87cxkhw.gif" style="width: 50%; height: 50%;" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzV2bmZhZWZwM2ZhYWtybGh6dmk5aXQxeGszeTJzMnV0NGQwNmQ1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" style="width: 50%" />
+  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--SK2mPJLd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2p24444g94djp87cxkhw.gif" style="width: 50%" />
 </div>
 
 
