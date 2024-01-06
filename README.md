@@ -8,5 +8,6 @@
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=Kindaka&theme=apprentice&no-frame=false&no-bg=true&margin-w=4)
 
-<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzV2bmZhZWZwM2ZhYWtybGh6dmk5aXQxeGszeTJzMnV0NGQwNmQ1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="512px"/>
+
 
