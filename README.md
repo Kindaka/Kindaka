@@ -4,18 +4,8 @@
 </p>
 
 
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Kindaka&show_icons=true&theme=dark&hide_border=false&cache_seconds=86400"
-    height="150"
-    alt="stats graph"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kindaka&layout=compact&langs_count=6&theme=dracula&hide_border=false&cache_seconds=86400"
-    height="150"
-    alt="languages graph"
-  />
-</div>
+<img src="https://<your-vercel-app>.vercel.app/api?username=kindaka&show_icons=true&theme=dark" />
+<img src="https://<your-vercel-app>.vercel.app/api/top-langs/?username=kindaka&layout=compact&theme=dracula" />
 
 ###
 
